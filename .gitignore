@@ -40,3 +40,6 @@ build/*.dll
 release/latest/
 *.nupkg
 release/*
+*.pidb
+*.DS_Store
+*.userprefs
